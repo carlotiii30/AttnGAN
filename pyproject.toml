@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "attngan"
+version = "0.1.0"
+description = ""
+authors = ["Carlota de la Vega <carlota.delavega@adaion.energy>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torch = "^2.5.0"
+torchvision = "^0.20.0"
+matplotlib = "^3.9.2"
+pycocotools = "^2.0.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
