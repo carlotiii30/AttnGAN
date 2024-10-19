@@ -1,4 +1,5 @@
 ## Estructura
+```
 |- data
 |   |- coco
 |   |   |- annotations
@@ -16,7 +17,7 @@
 |   |- vocabulary.py
 |
 |- main.py
-
+```
 
 ## Instrucciones
 
